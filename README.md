@@ -3,8 +3,11 @@ My personal resume website built with HTML and CSS
 
 resume-website/
 ├── index.html # Main landing page
+
 ├── bio.html # Home/about page
+
 ├── resume.html # Resume / Experience page
+
 ├── style.css # Custom styling
 
 🛠️ Technologies Used
